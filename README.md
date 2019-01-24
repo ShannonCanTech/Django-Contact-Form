@@ -7,6 +7,9 @@ Django contact form with Bootstrap 4 using Django's built-in email support, Form
 ### Success View
 ![screenshot](https://github.com/ShannonCanTech/Django-Contact-Form/blob/master/Success%20Contact%20Form.png)
 
+### Result
+![screenshot](https://github.com/ShannonCanTech/Django-Contact-Form/blob/master/Terminal%20Contact%20Form%20Result.png)
+
 ## How-to
 1. Create new directory
 2. Install virtial enviroment (Homebrew or Chocolately in PowerShell)
